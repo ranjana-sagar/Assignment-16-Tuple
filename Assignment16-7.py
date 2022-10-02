@@ -1,0 +1,5 @@
+tuple1=(1,2,3,4,5)
+t1=()
+print(tuple1)
+t1+=(tuple1[3],tuple1[4])
+print(t1)
